@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **DocsTogether**, a real-time document editor platform.  
+- 🔭 I’m currently working on **Next**, a multiplayer chess platform.  
 - 🌱 Always learning new tech – diving deeper into **performance optimization**, and scalable app architecture.  
-- 💬 Ask me about **React, Next.js, MongoDB, REST APIs, or real-time apps with Socket.IO**.  
+- 💬 Ask me about **React, MongoDB, REST APIs, or real-time apps with Socket.IO**.  
 - 📫 Reach me at **amangodara5686@gmail.com**  
 - 🌍 Based in **Hanumangarh, Rajasthan**
 
