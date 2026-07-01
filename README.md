@@ -68,8 +68,6 @@
 
 - 🔧 [**Work Pilot**](https://workpilot.vercel.app): Real-time project management with Google Auth, role-based access, and live updates via Socket.IO  
 - 🤖 [**AceMock**](https://acemock.vercel.app): AI-powered tech interview preparation with feedback and payment integration  
-- 🛍 [**iShop**](https://ishop-delta.vercel.app/): Full-featured e-commerce platform with secure payments and admin dashboard  
-- 💬 [**Blab**](https://blab-chat-app-frontend.vercel.app): Real-time chat app with friend requests and notifications  
 - 📧 [**ColdMailPro**](https://coldmailpro.vercel.app): Cold email tool with CSV upload and customized bulk sending
 
 ---
@@ -86,10 +84,4 @@ I'm actively building projects and improving daily — check out my repos to see
 - **MERN Stack Web Development** – WsCubeTech, Jaipur  
 [Certificate Link](https://drive.google.com/file/d/1fmwB4ncoNIiHkpHy6YrCGuG3q4UU0nzT/view?usp=sharing)
 
----
-
-### 💡 Fun Fact
-> I write code like I make chai—strong, consistent, and a little addictive ☕🚀
-
----
 
