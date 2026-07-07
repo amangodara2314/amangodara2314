@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Next**, a multiplayer chess platform.  
+- 🔭 I’m currently working on **NextMove**, a multiplayer chess platform.  
 - 🌱 Always learning new tech – diving deeper into **performance optimization**, and scalable app architecture.  
 - 💬 Ask me about **React, MongoDB, REST APIs, or real-time apps with Socket.IO**.  
 - 📫 Reach me at **amangodara5686@gmail.com**  
